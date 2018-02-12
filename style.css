@@ -425,7 +425,7 @@ p {
 
 .wellcome_area {
     background-image: url(img/bg-img/welcome-bg.png);
-    height: 900px;
+    height: 800px;
     position: relative;
     z-index: 1;
     background-position: bottom center;
@@ -1293,4 +1293,12 @@ p {
 
 .copyright-text > p {
     margin-bottom: 0;
+}
+
+.copy-impi{
+    font-size: 1.4em;
+}
+
+.impi-descrip{
+    font-size: 1.3em;
 }
